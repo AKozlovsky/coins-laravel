@@ -1,0 +1,40 @@
+{
+    "menu": [
+        {
+            "url": "/",
+            "name": "Dashboard",
+            "i18n": "Dashboard",
+            "class": "waves-effect waves-cyan",
+            "slug": "dashboard",
+            "icon": "settings_input_svideo"
+        },
+        {
+            "navheader": "Lists",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "continents",
+            "name": "By continents",
+            "i18n": "By continents",
+            "class": "waves-effect waves-cyan",
+            "slug": "table-data-table",
+            "icon": "grid_on"
+        },
+        {
+            "url": "countries",
+            "name": "By countries",
+            "i18n": "By countries",
+            "class": "waves-effect waves-cyan",
+            "slug": "table-data-table",
+            "icon": "grid_on"
+        },
+        {
+            "url": "other-criteria",
+            "name": "By other criteria",
+            "i18n": "By other criteria",
+            "class": "waves-effect waves-cyan",
+            "slug": "table-data-table",
+            "icon": "grid_on"
+        }
+    ]
+}
